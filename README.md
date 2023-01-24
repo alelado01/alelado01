@@ -1,9 +1,8 @@
-### Hi there 👋
+### Currently Computer Engineering student
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alelado01&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alelado01)](https://github.com/alelado01/github-readme-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=alelado01-it&unique={true|1|on|yes})
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
