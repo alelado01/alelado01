@@ -4,7 +4,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=alelado01-it&count=2)
 
-- | 👨🏻‍💻 | I'm a Computer engineering bachelor student
+- | 👨🏻‍💻 | I'm a Computer Engineering Bachelor student
 
 - | 📖 | Currently studying for ʀᴇᴛɪ ᴅɪ ᴄᴀʟᴄᴏʟᴀᴛᴏʀɪ ᴛ ᴇxᴀᴍ
 
