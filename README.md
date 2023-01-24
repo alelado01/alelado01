@@ -4,6 +4,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=alelado01-it&count=2)
 
+- | 👨🏻‍💻 | I'm a Computer engineering bachelor student
+
 - | 📖 | Currently studying for ʀᴇᴛɪ ᴅɪ ᴄᴀʟᴄᴏʟᴀᴛᴏʀɪ ᴛ ᴇxᴀᴍ
 
 - | 🎞️ | I love editing videos ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
