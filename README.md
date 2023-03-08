@@ -3,7 +3,7 @@
 
 - | 👨🏻‍💻 | I'm a Computer Engineering Bachelor student
 
-- | 📖 | Currently studying for ʀᴇᴛɪ ᴅɪ ᴄᴀʟᴄᴏʟᴀᴛᴏʀɪ ᴛ ᴇxᴀᴍ
+- | 📖 | Currently studying
 
 - | 🎞️ | I love editing videos ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
