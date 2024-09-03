@@ -1,8 +1,10 @@
 ### WEATHER THE STORM AND STICK TO YOUR VISION
 ### ANYTHING LESS AND THE VISION WOULDN'T BE YOURS
 
-- | 👨🏻‍💻 | Computer Engineer
+Bachelor Degree in Computer Engineering
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alelado01&theme=dark&mode=weekly)](https://git.io/streak-stats)
+Currently working on:
+- A Discord bot to optimize studying sessions
+- An App about handling shopping and cooking for an off-site student
 
 
